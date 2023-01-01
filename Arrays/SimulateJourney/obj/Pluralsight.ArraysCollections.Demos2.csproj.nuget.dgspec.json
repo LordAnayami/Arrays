@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mateusz.wenta\\source\\repos\\Arrays\\Arrays\\SimulateJourney\\Pluralsight.ArraysCollections.Demos2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mateusz.wenta\\source\\repos\\Arrays\\Arrays\\SimulateJourney\\Pluralsight.ArraysCollections.Demos2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mateusz.wenta\\source\\repos\\Arrays\\Arrays\\SimulateJourney\\Pluralsight.ArraysCollections.Demos2.csproj",
+        "projectName": "Pluralsight.ArraysCollections.Demos2",
+        "projectPath": "C:\\Users\\mateusz.wenta\\source\\repos\\Arrays\\Arrays\\SimulateJourney\\Pluralsight.ArraysCollections.Demos2.csproj",
+        "packagesPath": "C:\\Users\\mateusz.wenta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateusz.wenta\\source\\repos\\Arrays\\Arrays\\SimulateJourney\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mateusz.wenta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.415\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

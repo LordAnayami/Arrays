@@ -1,0 +1,13 @@
+C:\Users\mateusz.wenta\source\repos\Arrays\SimulateJourney\bin\Debug\netcoreapp3.1\SimulateJourney.exe
+C:\Users\mateusz.wenta\source\repos\Arrays\SimulateJourney\bin\Debug\netcoreapp3.1\SimulateJourney.deps.json
+C:\Users\mateusz.wenta\source\repos\Arrays\SimulateJourney\bin\Debug\netcoreapp3.1\SimulateJourney.runtimeconfig.json
+C:\Users\mateusz.wenta\source\repos\Arrays\SimulateJourney\bin\Debug\netcoreapp3.1\SimulateJourney.runtimeconfig.dev.json
+C:\Users\mateusz.wenta\source\repos\Arrays\SimulateJourney\bin\Debug\netcoreapp3.1\SimulateJourney.dll
+C:\Users\mateusz.wenta\source\repos\Arrays\SimulateJourney\bin\Debug\netcoreapp3.1\SimulateJourney.pdb
+C:\Users\mateusz.wenta\source\repos\Arrays\SimulateJourney\obj\Debug\netcoreapp3.1\SimulateJourney.csprojAssemblyReference.cache
+C:\Users\mateusz.wenta\source\repos\Arrays\SimulateJourney\obj\Debug\netcoreapp3.1\SimulateJourney.AssemblyInfoInputs.cache
+C:\Users\mateusz.wenta\source\repos\Arrays\SimulateJourney\obj\Debug\netcoreapp3.1\SimulateJourney.AssemblyInfo.cs
+C:\Users\mateusz.wenta\source\repos\Arrays\SimulateJourney\obj\Debug\netcoreapp3.1\SimulateJourney.csproj.CoreCompileInputs.cache
+C:\Users\mateusz.wenta\source\repos\Arrays\SimulateJourney\obj\Debug\netcoreapp3.1\SimulateJourney.dll
+C:\Users\mateusz.wenta\source\repos\Arrays\SimulateJourney\obj\Debug\netcoreapp3.1\SimulateJourney.pdb
+C:\Users\mateusz.wenta\source\repos\Arrays\SimulateJourney\obj\Debug\netcoreapp3.1\SimulateJourney.genruntimeconfig.cache
